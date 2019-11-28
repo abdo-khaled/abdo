@@ -1,0 +1,11 @@
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\obj\Debug\netcoreapp3.1\ConsoleApp2 parallel.csprojAssemblyReference.cache
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\obj\Debug\netcoreapp3.1\ConsoleApp2 parallel.AssemblyInfoInputs.cache
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\obj\Debug\netcoreapp3.1\ConsoleApp2 parallel.AssemblyInfo.cs
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.exe
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.deps.json
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.runtimeconfig.json
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.runtimeconfig.dev.json
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.dll
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\bin\Debug\netcoreapp3.1\ConsoleApp2 parallel.pdb
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\obj\Debug\netcoreapp3.1\ConsoleApp2 parallel.dll
+C:\Users\abdo khaled\source\repos\ConsoleApp2 parallel\ConsoleApp2 parallel\obj\Debug\netcoreapp3.1\ConsoleApp2 parallel.pdb
